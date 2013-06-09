@@ -55,10 +55,11 @@ All values are split in modulo 255 and hole multiples of 255 with these lines of
  * an: 0-1024
  * di: LOW=0, HIGH=1
 
-https://github.com/JOxBERGER/basicmata/raw/master/info/basic-mata-yED-Graph.jpg
+
+![imagename](https://github.com/JOxBERGER/basicmata/raw/master/info/basic-mata-yED-Graph.jpg)
 
 == Pinouts - Where to connect what! ==
 
 Digital Input Pins have their pullup resistors switched on.
 
-https://github.com/JOxBERGER/basicmata/raw/master/info/basicmata-pinmapping.jpg
+![imagename](https://github.com/JOxBERGER/basicmata/raw/master/info/basicmata-pinmapping.jpg)
