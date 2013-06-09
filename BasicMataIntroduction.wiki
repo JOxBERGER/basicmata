@@ -1,6 +1,3 @@
-#labels Phase-Deploy,Phase-Implementation,Featured
-<wiki:toc max_depth="3" />
-
 = Introduction =
 
 BasicMata
@@ -55,7 +52,7 @@ All values are split in modulo 255 and hole multiples of 255 with these lines of
  * an: 0-1024
  * di: LOW=0, HIGH=1
 
-[[https://github.com/JOxBERGER/basicmata/blob/master/info/basic-mata-yED-Graph.jpg]]
+[[basic-mata-yED-Graph.jpg]]
 
 == Pinouts - Where to connect what! ==
 
