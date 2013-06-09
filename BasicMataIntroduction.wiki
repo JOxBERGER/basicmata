@@ -58,4 +58,4 @@ All values are split in modulo 255 and hole multiples of 255 with these lines of
 
 Digital Input Pins have their pullup resistors switched on.
 
-[[https://github.com/JOxBERGER/basicmata/blob/master/info/basicmata-pinmapping.jpg]]
+[[https://github.com/JOxBERGER/basicmata/raw/master/info/basicmata-pinmapping.jpg]]
